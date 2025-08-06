@@ -1,0 +1,21 @@
+{
+    "grade_points": {
+        "A+": 4.0,
+        "A": 3.7,
+        "B+": 3.3,
+        "B": 3.0,
+        "C+": 2.7,
+        "C": 2.4,
+        "D+": 2.2,
+        "D": 2.0,
+        "F": 0.0
+    },
+    "gpa_general_grade": [
+        {"threshold": 3.5, "grade": "ممتاز"},
+        {"threshold": 3.0, "grade": "جيد جدا"},
+        {"threshold": 2.5, "grade": "جيد"},
+        {"threshold": 2.0, "grade": "مقبول"},
+        {"threshold": 1.5, "grade": "ضعيف"},
+        {"threshold": 0.0, "grade": "ضعيف جدا"}
+    ]
+}
